@@ -73,3 +73,19 @@
 16. memulai instalasi git
 
 ![Alt_text](https://github.com/Dean-182/tekn-cloud-computing/blob/main/install%20github/install-16.jpg) <br><br><br><br>
+
+17. menjalankan git bash atau git gui
+
+![Alt_text](https://github.com/Dean-182/tekn-cloud-computing/blob/main/install%20github/install-17.jpg) <br><br><br><br>
+
+18. tampilan Git bash 
+
+![Alt_text](https://github.com/Dean-182/tekn-cloud-computing/blob/main/install%20github/install-18.jpg) <br><br><br><br>
+
+19. tampilan Git Gui
+
+![Alt_text](https://github.com/Dean-182/tekn-cloud-computing/blob/main/install%20github/install-19.jpg) <br><br><br><br>
+
+20. mengecek versi git di command prompt
+
+![Alt_text](https://github.com/Dean-182/tekn-cloud-computing/blob/main/install%20github/install-20.jpg)
