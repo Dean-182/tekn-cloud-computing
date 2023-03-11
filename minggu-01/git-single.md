@@ -88,4 +88,67 @@
 
 20. mengecek versi git di command prompt
 
-![Alt_text](https://github.com/Dean-182/tekn-cloud-computing/blob/main/install%20github/install-20.jpg)
+![Alt_text](https://github.com/Dean-182/tekn-cloud-computing/blob/main/install%20github/install-20.jpg) <br><br><br><br>
+
+# Konfigurasi Git
+
+mengkonfigurasi email dan username sesuai dengan akun github
+
+![Alt_text](https://github.com/Dean-182/tekn-cloud-computing/blob/main/konfigurasi%20Git/install-16.jpg) <br><br><br><br>
+
+cek email dan username
+
+![Alt_text](https://github.com/Dean-182/tekn-cloud-computing/blob/main/konfigurasi%20Git/install-16.jpg) <br><br><br><br>
+
+# Mengelola Repo Sendiri di Akun Sendiri
+
+## Membuat Repo
+
+1. untuk Membuat repo, klik tanda + di samping foto akun, lalu pilih new repo
+
+![Alt_text](https://github.com/Dean-182/tekn-cloud-computing/blob/main/konfigurasi%20Git/repo.jpg) <br><br><br><br>
+
+2. mengisi nama repo, deskripsi, dan setting public atau privat
+
+![Alt_text](https://github.com/Dean-182/tekn-cloud-computing/blob/main/konfigurasi%20Git/repo1.jpg) <br><br><br><br>
+
+3. lalu klik create repo <br><br><br><br>
+
+## Clone Repo
+
+1. melakukan clone repo di git bash dengan perintah dibawah
+
+![Alt_text](https://github.com/Dean-182/tekn-cloud-computing/blob/main/konfigurasi%20Git/clonerepo.jpg) <br><br><br><br>
+
+## Mengelola Repo
+
+### Mengubah isi push tanpa breching dan merging
+
+1. perintah vim 
+
+![Alt_text](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-01/vim%20readme.jpg) <br><br><br><br>
+
+2. memasukan text
+
+![Alt_text](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-01/vim%20readme1.jpg) <br><br><br><br>
+
+3. perintah cat
+
+![Alt_text](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-01/vim%20readme2.jpg) <br><br><br><br>
+
+### mengubah isi push branching dan merging
+
+![Alt_text](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-01/git%20checkout.jpg) <br><br><br><br>
+
+pull request 
+
+![Alt_text](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-01/pull%20req.jpg)
+
+
+
+
+
+
+
+
+
