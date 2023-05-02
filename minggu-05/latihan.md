@@ -6,3 +6,4 @@
 
 2. menjalankan cmd, perintah gradle cleanAll load default untuk menghapus seluruh konfigurasi
 
+j
