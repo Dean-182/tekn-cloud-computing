@@ -46,4 +46,23 @@
 
 ## MongoDB
 
-![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-06/cloud6/importmongo.png)
+![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-06/cloud6/importmongo.png)<br><br><br><br>
+
+# restful API
+
+## import
+
+![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-06/cloud6/import3.png)
+
+## gin
+
+![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-06/cloud6/gin.png)
+
+## rute sql
+
+![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-06/cloud6/routesql.png)
+
+## rute mongodb
+
+![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-06/cloud6/routemongo.png)
+
