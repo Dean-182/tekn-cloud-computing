@@ -60,7 +60,40 @@ hasil clone
 ![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-07/image_latihan/get%20start/update%20application/dockerbuild2.png)
 
 3.
-![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-07/image_latihan/get%20start/update%20application/dockerrunerror.png)
+![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-07/image_latihan/get%20start/update%20application/dockerrunerror.png)<br><br><br><br>
+
+# Remove the old container
+
+1.
+![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-07/image_latihan/get%20start/update%20application/delete.png)
+
+2. jalankan kembali
+
+![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-07/image_latihan/get%20start/update%20application/run.png)
+
+3.
+![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-07/image_latihan/get%20start/update%20application/localhost3000.png)<br><br><br><br>
+
+# Create a repo
+
+1. create repo
+
+![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-07/image_latihan/get%20start/update%20application/create%20repo.png)
+
+2. docker push
+
+![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-07/image_latihan/get%20start/update%20application/dockerpush.png)
+
+![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-07/image_latihan/get%20start/update%20application/dockertag.png)
+
+![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-07/image_latihan/get%20start/update%20application/push.png)
+
+![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-07/image_latihan/get%20start/update%20application/run%20image.png)
+
+play with docker
+![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-07/image_latihan/get%20start/update%20application/playwithdocker.png)
+
+
 
 
 
