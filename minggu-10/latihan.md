@@ -87,6 +87,24 @@
 
 ![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-10/cloud10/31.png)
 
+![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-10/cloud10/32.png)
+
+## Step 5: Test service discovery
+
+![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-10/cloud10/34.png)
+
+![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-10/cloud10/35.png)
+
+![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-10/cloud10/36.png)
+
+![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-10/cloud10/37.png)
+
+![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-10/cloud10/38.png)
+
+![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-10/cloud10/39.png)
+
+![image](https://github.com/Dean-182/tekn-cloud-computing/blob/main/minggu-10/cloud10/40.png)
+
 
 
 
